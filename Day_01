@@ -1,0 +1,38 @@
+# Day 1 of My DevOps Journey: Fundamentals + Networking Basics
+
+## About me
+
+I'm **Nisarg Makwana**, currently working as a **Java Developer** and in my final year of a **Computer Science Engineering degree**. Starting today, I'm learning **DevOps from scratch** and documenting the process day by day — partly to track my own progress, partly for anyone following a similar path.
+
+This is **Day 1**.
+
+---
+
+## What is DevOps?
+
+DevOps is a **process and a culture**, not just a set of tools. It brings **Development** and **Operations** together.
+
+More formally:  
+DevOps is a software development methodology that combines and automates the work of software development (Dev) and IT operations (Ops) to improve and shorten the systems development life cycle. It integrates people, processes, and technology to deliver continuous value to customers.
+
+---
+
+## Tools in the DevOps ecosystem
+
+A few of the tools that come up repeatedly:
+
+- GitHub
+- Docker
+- Kubernetes
+- AWS
+- Ansible
+- Terraform
+- Jenkins
+
+I also came across **CNCF (Cloud Native Computing Foundation)**, which plays a big role in shaping the cloud‑native tooling landscape.
+
+---
+
+## My roadmap
+
+I broke the learning path into three
